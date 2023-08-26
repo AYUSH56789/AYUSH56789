@@ -1,7 +1,7 @@
 ![logo](https://github.com/AYUSH56789/AYUSH56789/blob/main/GITBANNER.png)
 <h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 <h3 align="center">A passionate frontend developer and programmer</h3>
-<img src="https://media2.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e47lgdym7zuyka0ortceskigyouppr6ehtbqsn6d5qt&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="coding" width="400" align="right">
+<img src="https://media2.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e47lgdym7zuyka0ortceskigyouppr6ehtbqsn6d5qt&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="coding" width="350" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush56789&label=Profile%20views&color=0e75b6&style=flat"
         alt="ayush56789" /> </p>
